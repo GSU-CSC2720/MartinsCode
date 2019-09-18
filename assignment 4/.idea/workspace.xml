@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f8c7e0-ce87-461e-9640-5767a49a4dc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment 1/count/count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment 1/count/count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/assignment 4/SortArrayInstrumented.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment 4/SortArrayInstrumented.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortArrayInstrumented.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortArrayInstrumented.java" afterDir="false" />

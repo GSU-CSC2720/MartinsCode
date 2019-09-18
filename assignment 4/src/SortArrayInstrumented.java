@@ -24,7 +24,6 @@ public class SortArrayInstrumented {
         totalComparisons = totalComparisons + comparisons;
         minComparisons = Math.min(minComparisons,comparisons);
         maxComparisons = Math.max(maxComparisons,comparisons);
-        comparisons = 0;
     }
 
     public  <T extends Comparable<? super T>>
