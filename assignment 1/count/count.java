@@ -2,6 +2,9 @@ import java.io.*;
 import java.util.*;
 public class count
 {
+
+    /** this is basic knowledge*/
+
     public static void main(String [] args)
     {
         int n = getInt("Please enter an integer value greater than or equal to 0");
