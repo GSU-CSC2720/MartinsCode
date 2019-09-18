@@ -5,9 +5,8 @@ public class SortArrayInstrumented {
     private long minComparisons;
     private long maxComparisons;
 
-    public void main(String[] args)
+    public SortArrayInstrumented()
     {
-        SortArrayInstrumented s = new SortArrayInstrumented();
         comparisons = 0;
         minComparisons= Long.MAX_VALUE;
         totalComparisons = 0;
@@ -20,16 +19,12 @@ public class SortArrayInstrumented {
     public long getMaxComparisons(){return maxComparisons;}
 
     private void startStatistics(){ comparisons = 0;}
+
     private void endStatistics(){
         totalComparisons = totalComparisons + comparisons;
-        if(comparisons > minComparisons)
-        {
-            minComparisons = comparisons;
-        }
-        if(comparisons > maxComparisons)
-        {
-            maxComparisons = comparisons;
-        }
+        minComparisons = Math.min(minComparisons,comparisons);
+        maxComparisons = Math.max(maxComparisons,comparisons);
+        comparisons = 0;
     }
 
     public  <T extends Comparable<? super T>>
