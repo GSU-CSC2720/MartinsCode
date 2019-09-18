@@ -3,7 +3,7 @@ import java.util.*;
 public class count
 {
 
-    /** this is basic knowledge*/
+    
 
     public static void main(String [] args)
     {
