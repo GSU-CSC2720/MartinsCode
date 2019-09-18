@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecursiveFactorial
+comment1.params=n
+comment1.target=long\ basic(long)
+comment2.params=n
+comment2.target=long\ tailRecursive(long)
+comment3.params=n\ partial
+comment3.target=long\ helper(long,\ long)
+numComments=4

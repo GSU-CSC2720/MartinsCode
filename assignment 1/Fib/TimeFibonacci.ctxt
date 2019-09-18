@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TimeFibonacci
+comment0.text=\r\n\ Time\ how\ long\ it\ takes\ to\ compute\ Fibonacci\ numbers.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ timeBasic(int)
+comment3.params=rangePrompt
+comment3.target=int\ getInt(java.lang.String)
+comment3.text=\r\n\ Get\ an\ integer\ value\r\n\r\n\ @return\ \ \ \ \ An\ integer.\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RecursiveFibonacci
+comment0.text=\r\n\ A\ class\ holding\ different\ recursive\ methods\ to\ compute\ Fibonacci\ numbers.\r\n\ 0,\ 1,\ 1,\ 2,\ 3,\ 5,\ 8,\ ...\r\n\ \r\n
+comment1.params=n
+comment1.target=long\ basic(long)
+comment1.text=\r\n\ basic\ -\ The\ simple\ version\ of\ Fibonacci.\r\n\ \r\n\ @param\ \ n\ \ \ A\ positive\ integer.\ \r\n\ @return\ \ \ \ \ The\ nth\ Fibonacci\ number.\r\n
+numComments=2

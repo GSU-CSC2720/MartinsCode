@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=count
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ countUp(int)
+comment3.params=rangePrompt
+comment3.target=int\ getInt(java.lang.String)
+numComments=4
